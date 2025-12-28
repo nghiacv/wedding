@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Chillatos';
+  src: url('/assets.cinelove.me/fonts/webfonts/chillatos/chillatos.woff2') format('woff2'),
+       url('/assets.cinelove.me/fonts/webfonts/chillatos/chillatos.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
